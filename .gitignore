@@ -171,9 +171,6 @@ cython_debug/
 .ruff_cache/
 
 # PyPI configuration file
-.pypirc
-=======
 __pycache__/
 *.pyc
 *.pyo
->>>>>>> ddd3bd7 (added .gitignore file)

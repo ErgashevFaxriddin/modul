@@ -15,4 +15,4 @@ import random as r
 # print(sonlar)
 # print(r.choice(sonlar))
 
-hisoblash.divide()
+hisoblash.qoldiqli_bolish()

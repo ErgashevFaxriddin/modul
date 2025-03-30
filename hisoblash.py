@@ -68,3 +68,21 @@ def divide():
                 print('Faqat raqam kiriting!')
         else:
             print('Faqat raqam kiriting!')
+            
+# qoldiqli bolishni bajaruvchi funksiya
+def qoldiqli_bolish():
+    while True:
+        print("ikki sonni bir-biriga boluvchi dastur\nstop: ('x')")
+        son1 = input('1-son: ')
+        if son1 == 'x'.lower():
+            break
+        if son1.isdigit():
+            son2 = input('2-son: ')
+            if son2 == 'x'.lower():
+                break
+            if son2.isdigit():
+                print(f"{son1} % {son2} = {int(son1) % int(son2)}")
+            else:
+                print('raqam kiriting')
+        else:
+            print('raqam kiriting')
