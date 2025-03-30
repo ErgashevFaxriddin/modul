@@ -1,0 +1,2 @@
+# modul
+modulga oid vazifalar
