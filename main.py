@@ -1,6 +1,6 @@
 import hisoblash
 import random as r
-
+import lambdam
 # hisoblash.multiply()
 # son = r.randint(0, 10)
 # print(son)
