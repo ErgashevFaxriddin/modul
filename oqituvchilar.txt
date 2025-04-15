@@ -1,0 +1,15 @@
+1. O'qituvchi:
+Ism: najmiddin
+Familiya: inomov
+Sharif: davronbekov
+Yosh: 20
+Fan: iqtisodiyot
+Joy: Fargona
+
+2. O'qituvchi:
+Ism: faxriddin
+Familiya: ergashev
+Sharif: ziyoydin ogli
+Yosh: 21
+Fan: iqtisodiyot
+Joy: Andijon
